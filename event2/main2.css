@@ -526,10 +526,12 @@ input[type="radio"] {
     font-family: 'Audiowide', cursive;
     padding-bottom: 0;
     padding-top: 0;
+   
 }
 .events-cards::-webkit-scrollbar {
     display: none; /* for Chrome, Safari, and Opera */
 }
+
 .box {
     position: relative;
     width: 300px;
