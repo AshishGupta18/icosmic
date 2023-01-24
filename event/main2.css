@@ -325,6 +325,7 @@ input[type="radio"] {
             "main"
             "footer";
         width:100%;
+        margin-left: -2.8%;
     }
 
     #sidebar .indicator {
@@ -391,6 +392,11 @@ input[type="radio"] {
     padding-top: 2rem;
     margin-left:38%;
     
+}
+@media only screen and (max-width: 768px) {
+ .cv-button{
+    margin-left:10%;
+}   
 }
 
   .bnt {
