@@ -1,11 +1,11 @@
 var tablinks = document.getElementsByClassName("tab-links");
 var tabcontents = document.getElementsByClassName("tab-contents");
 console.log("Developed with love by:")
+console.log("Moaksh Kakkar")
 console.log("Ashish Gupta")
 console.log("Aryan Gupta")
 console.log("Deepanshu Tyagi")
 console.log("Rupesh Shandillya")
-console.log("Moaksh Kakkar")
 
 
 function opentab(tabname) {
